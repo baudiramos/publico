@@ -1,4 +1,4 @@
-# publico
+# README
 
 * Bienvenido al README del repositorio público.
 
